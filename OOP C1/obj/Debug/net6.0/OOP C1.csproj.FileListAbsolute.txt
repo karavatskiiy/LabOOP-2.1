@@ -1,0 +1,15 @@
+C:\Проекти 1 курс\Проекти ООП\OOP C1\OOP C1\obj\Debug\net6.0\OOP C1.csproj.AssemblyReference.cache
+C:\Проекти 1 курс\Проекти ООП\OOP C1\OOP C1\obj\Debug\net6.0\OOP C1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Проекти 1 курс\Проекти ООП\OOP C1\OOP C1\obj\Debug\net6.0\OOP C1.AssemblyInfoInputs.cache
+C:\Проекти 1 курс\Проекти ООП\OOP C1\OOP C1\obj\Debug\net6.0\OOP C1.AssemblyInfo.cs
+C:\Проекти 1 курс\Проекти ООП\OOP C1\OOP C1\obj\Debug\net6.0\OOP C1.csproj.CoreCompileInputs.cache
+C:\Проекти 1 курс\Проекти ООП\OOP C1\OOP C1\bin\Debug\net6.0\OOP C1.exe
+C:\Проекти 1 курс\Проекти ООП\OOP C1\OOP C1\bin\Debug\net6.0\OOP C1.deps.json
+C:\Проекти 1 курс\Проекти ООП\OOP C1\OOP C1\bin\Debug\net6.0\OOP C1.runtimeconfig.json
+C:\Проекти 1 курс\Проекти ООП\OOP C1\OOP C1\bin\Debug\net6.0\OOP C1.dll
+C:\Проекти 1 курс\Проекти ООП\OOP C1\OOP C1\bin\Debug\net6.0\OOP C1.pdb
+C:\Проекти 1 курс\Проекти ООП\OOP C1\OOP C1\obj\Debug\net6.0\OOP C1.dll
+C:\Проекти 1 курс\Проекти ООП\OOP C1\OOP C1\obj\Debug\net6.0\refint\OOP C1.dll
+C:\Проекти 1 курс\Проекти ООП\OOP C1\OOP C1\obj\Debug\net6.0\OOP C1.pdb
+C:\Проекти 1 курс\Проекти ООП\OOP C1\OOP C1\obj\Debug\net6.0\OOP C1.genruntimeconfig.cache
+C:\Проекти 1 курс\Проекти ООП\OOP C1\OOP C1\obj\Debug\net6.0\ref\OOP C1.dll
